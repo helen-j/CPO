@@ -1,3 +1,6 @@
+(http://bair.berkeley.edu/blog/2017/07/06/cpo/)
+
+
 # Constrained Policy Optimization for rllab
 
 Constrained Policy Optimization (CPO) is an algorithm for learning policies that should satisfy behavioral constraints throughout training. [1]
